@@ -114,10 +114,11 @@ const printWordVal = (number) => {
 console.log(
 	"Soal 5 (Menampilkan nominal huruf)\n==============================="
 );
-console.log(4, ":", printWordVal(4)); // Lima Puluh Lima
-console.log(20, ":", printWordVal(20)); // Lima Puluh Lima
-console.log(39, ":", printWordVal(39)); // Lima Puluh Lima
-console.log(104, ":", printWordVal(104)); // Lima Puluh Lima
+console.log(4, ":", printWordVal(4)); // 4 : Empat
+console.log(20, ":", printWordVal(20)); // 20 : Dua Puluh
+console.log(39, ":", printWordVal(39)); // 39 : Tiga Puluh Sembilan
+console.log(104, ":", printWordVal(104)); // 104 : Silahkan masukkan bilangan 1 - 100
+
 console.log("===============================\n");
 
 // Soal nomor 6 dan 7
